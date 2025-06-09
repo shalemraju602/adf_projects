@@ -36,10 +36,10 @@
   },
   {
     "OrderID": 1005,
-    "CustomerID": "C003",
+    "CustomerID": "C002",
     "OrderDate": "2024-05-03T15:00:00Z",
     "UpdatedDate": "2024-05-09T10:00:00Z",
-    "Amount": 230.0
+    "Amount": 890.0
   },
    {
     "OrderID": 1006,
@@ -50,8 +50,8 @@
   },
   {
     "OrderID": 1007,
-    "CustomerID": "C003",
-    "OrderDate": "2024-05-03T15:00:00Z",
+    "CustomerID": "C004",
+    "OrderDate": "2024-05-03T19:00:00Z",
     "UpdatedDate": "2024-05-09T10:00:00Z",
     "Amount": 230.0
   }
